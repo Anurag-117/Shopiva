@@ -21,6 +21,7 @@ Visit: [Heroku](https://shopiva.herokuapp.com/)
 - [X] Navbar is updated everytime a product is added to cart or added to wish list, using AJAX.
 - [X] Customer Profile page
 ---
+![Er Diagram](Shopiva/images/db.svg)
 ## Installing required Dependencies. 
 
 ***Make sure you import project in a virtual Environment***
